@@ -1,7 +1,12 @@
 {
 	"installed_packages":
 	[
+		"Better JavaScript",
+		"CTags",
+		"Cucumber",
 		"Gherkin (Cucumber) Formatter",
-		"Python Flake8 Lint"
+		"JavaScriptNext - ES6 Syntax",
+		"Python Flake8 Lint",
+		"sublimelint"
 	]
 }
